@@ -25,7 +25,7 @@ def converter():
     tprint("MORSE CONVERTER")
     time.sleep(2)
 
-    print("Welcome to my Text to Morse Converter! Hope this help :)")
+    print("Welcome to my Text to Morse Converter! Hope this helps :)")
     time.sleep(1)
 
     string = input("\nJust tell me what your secret and I won't tell a soul 😉 : ")
